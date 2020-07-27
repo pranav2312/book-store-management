@@ -1,0 +1,29 @@
+				Book Store Pvt. Ltd.
+--------------------------------------------------------------------------------------------
+Book Name		Price	Quantity		Cost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Atulya Bharat
+			3459	1			3459
+
+
+Total Bill Amount is	3459 rupees
